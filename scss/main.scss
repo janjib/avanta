@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #fef6e4;
+}
+.form-control,
+.form-select {
+  width: 25%;
+}
+.img-fluid {
+  max-width: 50%;
+  max-height: 40vh;
+}
+.seimbol-title {
+  color: #001858;
+}
+.title-span {
+  font-weight: 700;
+}
+.btn-primary {
+  background-color: #f582ae;
+  border: none;
+}
+.nickname-input,
+.form-select {
+  background-color: #fef6e4;
+  border: 0.5rem solid #8bd3dd;
+}
